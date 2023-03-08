@@ -1,4 +1,4 @@
-package trabajo.advisor.producto;
+package trabajo.advisor.producto.helper;
 
 public interface TiendaHelper {
 

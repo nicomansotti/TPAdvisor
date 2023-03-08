@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 
 import trabajo.advisor.producto.dao.ProductoDAO;
 import trabajo.advisor.producto.entity.Producto;
+import trabajo.advisor.producto.helper.TiendaHelper;
 
 @Service
 public class ProductoService {
